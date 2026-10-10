@@ -1,0 +1,177 @@
+{
+    "site": {
+        "ad": "Dyt. Ayşe Kaya",
+        "unvan": "Sağlıklı Yaşam Uzmanı",
+        "aciklama": "İzmit'te diyetisyen Ayşe Kaya ile kişiye özel beslenme programları, online danışmanlık ve sağlıklı kilo yönetimi.",
+        "whatsapp": "905454257827",
+        "telefon": "+90 545 425 78 27",
+        "eposta": "info@aysekaya.com.tr",
+        "adres": "Yahyakaptan, Akasyalar Cd. No:24, 41000 İzmit/Kocaeli",
+        "harita": "https://maps.app.goo.gl/6bPh1ZyNCRNWULm79",
+        "saatler": "Pazartesi - Cuma: 09:00 - 18:00\nCumartesi: 09:00 - 14:00\nPazar: Kapalı",
+        "instagram": "",
+        "linkedin": ""
+    },
+    "hero": [
+        {
+            "baslik": "Sağlıklı Kilo Verme",
+            "alt": "Dyt. Ayşe Kaya ile zindeliğe doğru",
+            "gorsel": "",
+            "buton": "Bizi Tanıyın",
+            "link": "#team"
+        },
+        {
+            "baslik": "WhatsApp Desteği",
+            "alt": "Motivasyonel olarak sizi hep yüksek tutacak iletişim",
+            "gorsel": "",
+            "buton": "",
+            "link": ""
+        },
+        {
+            "baslik": "İzmit Merkezdeyiz",
+            "alt": "İzmit'te çarşıda bulunan şubemiz ile merkezdeyiz. Dilerseniz online olarak da hizmet alabilirsiniz.",
+            "gorsel": "",
+            "buton": "Haritada Göster",
+            "link": "https://maps.app.goo.gl/6bPh1ZyNCRNWULm79"
+        }
+    ],
+    "hizmetler": [
+        {
+            "baslik": "Kilo Yönetimi",
+            "metin": "Bireysel beslenme planları ile sağlıklı kilo verme ve kilo alma programları sunuyoruz."
+        },
+        {
+            "baslik": "Hastalık Diyetleri",
+            "metin": "Diyabet, kalp hastalıkları ve metabolik bozukluklar için özel beslenme programları."
+        },
+        {
+            "baslik": "Spor Beslenmesi",
+            "metin": "Sporcu performansını artırmak için özel beslenme stratejileri ve supplement önerileri."
+        },
+        {
+            "baslik": "Çocuk Beslenmesi",
+            "metin": "Büyüme çağındaki çocuklar için sağlıklı gelişim odaklı beslenme planları."
+        },
+        {
+            "baslik": "Hamile Beslenmesi",
+            "metin": "Hamilelik döneminde anne ve bebek sağlığı için özel beslenme danışmanlığı."
+        },
+        {
+            "baslik": "Online Danışmanlık",
+            "metin": "Uzaktan beslenme danışmanlığı ve takip hizmetleri ile her yerden destek alın."
+        }
+    ],
+    "sayilar": [
+        {
+            "deger": 1200,
+            "etiket": "Mutlu Danışan"
+        },
+        {
+            "deger": 8,
+            "etiket": "Yıllık Deneyim"
+        },
+        {
+            "deger": 350,
+            "etiket": "Başarılı Program"
+        },
+        {
+            "deger": 98,
+            "etiket": "% Memnuniyet"
+        }
+    ],
+    "galeri": [
+        {
+            "kaynak": "https://www.youtube.com/watch?v=mSh32aSM1do",
+            "baslik": "Video 1"
+        },
+        {
+            "kaynak": "https://www.youtube.com/watch?v=daEo_UJN8O0",
+            "baslik": "Video 2"
+        },
+        {
+            "kaynak": "https://www.youtube.com/watch?v=3hCUUFklmj8",
+            "baslik": "Video 3"
+        },
+        {
+            "kaynak": "https://www.youtube.com/watch?v=bliG6rMU8kk",
+            "baslik": "Video 4"
+        },
+        {
+            "kaynak": "https://www.youtube.com/watch?v=RDkvqH0Xc_Y",
+            "baslik": "Video 5"
+        },
+        {
+            "kaynak": "https://www.youtube.com/watch?v=SRYS8AieucM",
+            "baslik": "Video 6"
+        }
+    ],
+    "hakkinda": {
+        "baslik": "Dyt. Ayşe Kaya",
+        "metin": "Dyt. Ayşe Kaya 2017 yılında Ankara Üniversitesi Beslenme ve Diyetetik lisans programını 'İştah-Glisemik Yük ve Kan şekerleri arasında ilişki' teziyle tamamlamıştır. Lisans eğitiminin ardından yabancı danışanlara da ulaşabilmek adına EC Bristol adlı kurumda İngiltere'de dil eğitimi almıştır.\n\nAnkara ve İstanbul'da pek çok eğitim ve sertifika programına katılmaya devam etmiştir. Mart 2018 tarihinde Sofit Beslenme ve Diyet danışmanlığını kurmuş ve bu tarihten itibaren pek çok hastalıkta beslenme tedavisi, zayıflama ve kilo alma gibi konularda danışmanlık yapmaya devam etmektedir."
+    },
+    "blog": [
+        {
+            "id": 1,
+            "baslik": "Sağlıklı Kilo Vermenin 7 Altın Kuralı",
+            "ozet": "Sürdürülebilir kilo kaybı için bilmeniz gereken temel prensipleri ve pratik önerilerimi keşfedin.",
+            "icerik": "Kalıcı kilo kaybı hızlı sonuçlardan çok, sürdürülebilir alışkanlıklarla gelir. İşte her danışanıma anlattığım yedi temel kural.\n\n1. Gerçekçi hedef koyun. Sağlıklı kilo kaybı haftada ortalama 0,5-1 kg arasındadır.\n\n2. Öğün atlamayın. Uzun süre aç kalmak akşam kontrolsüz yemeye yol açar.\n\n3. Yeterli su için. Susuzluk çoğu zaman açlık gibi hissedilir.\n\n4. Her öğünde protein ve lif bulundurun. Tokluk hissini uzatır.\n\n5. Porsiyonlarınıza dikkat edin. Yasak yok, ölçü var.\n\n6. Uykunuzu ihmal etmeyin. Yetersiz uyku iştah hormonlarını bozar.\n\n7. Sabırlı olun ve hareket edin. Küçük ama düzenli adımlar büyük fark yaratır."
+        },
+        {
+            "id": 2,
+            "baslik": "Metabolizmayı Hızlandıran Besinler",
+            "ozet": "Metabolik hızınızı doğal yollarla artıracak süper besinleri ve tüketim şekillerini öğrenelim.",
+            "icerik": "Metabolizmayı tek başına hızlandıran mucize bir besin yoktur; ancak bazı besinler ve alışkanlıklar enerji harcamanıza destek olur.\n\nProtein açısından zengin besinler (yumurta, baklagiller, yoğurt, tavuk, balık) sindirilirken daha fazla enerji harcatır. Yeterli su tüketimi ve düzenli öğünler de metabolizmanın dengeli çalışmasına yardımcı olur.\n\nDüzenli direnç egzersizi ile kas kütlenizi korumak ise uzun vadede en etkili yöntemlerden biridir. Kendinize uygun planı bir diyetisyenle birlikte oluşturmanız en doğrusudur."
+        },
+        {
+            "id": 3,
+            "baslik": "Spor Öncesi ve Sonrası Beslenme",
+            "ozet": "Antrenman performansınızı maksimize etmek için doğru zamanlama ile beslenme stratejileri.",
+            "icerik": "Antrenman öncesi, egzersizden yaklaşık 1-3 saat önce karbonhidrat ağırlıklı, yağı az ve kolay sindirilen bir öğün tercih edin. Örneğin yulaf, muz ya da tam tahıllı ekmek uygun seçeneklerdir.\n\nAntrenman sonrasında 30-60 dakika içinde protein ve karbonhidratı birlikte almak kasların toparlanmasına yardımcı olur. Egzersiz boyunca ve sonrasında sıvı kaybınızı yerine koymayı unutmayın.\n\nİhtiyaçlar kişiye, spora ve hedefe göre değişir; bu yüzden size özel plan için uzmana danışın."
+        }
+    ],
+    "yorumlar": [
+        {
+            "isim": "Elif Özkan",
+            "metin": "Ayşe Hanım'ı evime yakın olduğu için tercih etmiştim, iyi ki tercih etmişim. Daha önce birçok kilo verme sürecine girdim ama en başarılısı Ayşe Hanım ile oldu. Metabolizmamın yavaş olması ve insülin direncim olmasına rağmen 3 ayda spor yapmadan 10 kilo verdim. Sağlıklı kilo vermek isteyen herkese Ayşe Hanım'ı tavsiye ederim."
+        },
+        {
+            "isim": "Ahmet Yılmaz",
+            "metin": "Tavsiye üzerine gittiğimiz Diyetisyen Ayşe Hanım sayesinde kızım 3 haftada 2 kg'a yakın zayıfladı. Bu süreçte Ayşe Hanım'ın duyduğu şüphe üzerine kızıma yaptırdığımız tahliller sonucu demir ve D vitamini eksikliğini öğrendik. Sayesinde kızım hem zayıfladı hem de takviyelere başladı. Tatlı dilli, ilgili, bilgili Ayşe Hanım'ı ihtiyacı olan herkese tavsiye ediyoruz."
+        },
+        {
+            "isim": "Can Demir",
+            "metin": "Spor performansım çok arttı. Ayşe Hanım'ın önerdiği beslenme programı sayesinde hedeflediğim kas kütlesine ulaştım."
+        },
+        {
+            "isim": "Aylin Kaya",
+            "metin": "Hamilelik sürecimde çok destek oldular. Hem kendim hem de bebeğim için en sağlıklı beslenmeyi sağladım."
+        },
+        {
+            "isim": "Murat Şahin",
+            "metin": "Online danışmanlık hizmeti harika! Evden çıkmadan profesyonel destek almak çok pratik."
+        }
+    ],
+    "sss": [
+        {
+            "soru": "Kilo verme programı ne kadar sürer?",
+            "cevap": "Kilo verme sürecinin süresi kişinin başlangıç kilosu, hedef kilo ve metabolik özelliklerine bağlı olarak değişir. Ortalama olarak sağlıklı kilo kaybı haftada 0,5-1 kg arası olmalıdır."
+        },
+        {
+            "soru": "Online danışmanlık nasıl çalışır?",
+            "cevap": "Online danışmanlık video konferans üzerinden gerçekleşir. İlk görüşmede detaylı anamnez alınır, beslenme programınız hazırlanır ve düzenli takipleriniz yapılır."
+        },
+        {
+            "soru": "Beslenme programı ne sıklıkla güncellenir?",
+            "cevap": "Programlar genellikle 15 gün arayla kontrol edilir ve gerekli güncellemeler yapılır. Kilo kaybı durumu, yaşam koşullarındaki değişiklikler dikkate alınarak revize edilir."
+        },
+        {
+            "soru": "Hangi yaş grubuna hizmet veriyorsunuz?",
+            "cevap": "2 yaşından itibaren tüm yaş gruplarına hizmet veriyoruz. Çocuk, ergen, yetişkin ve yaşlı beslenme konularında uzman ekibimiz bulunmaktadır."
+        },
+        {
+            "soru": "Özel sağlık durumları için program yapılır mı?",
+            "cevap": "Evet, diyabet, hipertansiyon, kolesterol yüksekliği, PCOS gibi özel durumlar için medikal beslenme tedavisi programları hazırlanmaktadır."
+        }
+    ],
+    "mesajlar": []
+}
